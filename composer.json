@@ -1,0 +1,9 @@
+{
+    "require": {
+        "jenssegers/blade": "^1.4",
+        "vlucas/phpdotenv": "^5.5"
+    },
+    "files": [
+        "functions.php"
+    ]
+}
